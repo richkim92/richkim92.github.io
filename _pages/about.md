@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 
@@ -21,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -35,9 +35,12 @@ I was previously a postdoctoral fellow at Stanford under [Bao Research Group](ht
 
 I specialize in the co-development of integrated `hardware` and `artificial intelligence` for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications.
 
-- AI algorithms for time-series signal processing, enabling motion prediction and language translation from physiological signals
-- Generative AI models that extrapolate sensory data to enhance and enrich wearable experiences in augmented environments
-- Wearable system design for capturing high-precision motion, health, and language signals, including EMG, ECG, and strain sensors
+
+<ul style="line-height: 1.8; padding-left: 2em;">
+  <li>AI algorithms for time-series signal processing, enabling motion prediction and language translation from physiological signals</li>
+  <li>Generative AI models that extrapolate sensory data to enhance and enrich wearable experiences in augmented environments</li>
+  <li>Wearable system design for capturing high-precision motion, health, and language signals, including EMG, ECG, and strain sensors</li>
+</ul>
 
 
 <!-- >
@@ -48,6 +51,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
+<div style="margin-top: 60px;"></div>
 
 <swiper-container style="height: 430px;" autoplay-delay="3500" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
