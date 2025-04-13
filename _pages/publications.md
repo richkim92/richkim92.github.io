@@ -8,7 +8,7 @@ nav_order: 2
 
 ---
 <p>
-  List of first authored papers. Refer <a href="https://scholar.google.com/citations?user=hX4shw4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> for the full list of publications.
+  List of featured first authored papers. Refer <a href="https://scholar.google.com/citations?user=hX4shw4AAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> for the full list of publications.
 </p>
 <!-- _pages/publications.md -->
 

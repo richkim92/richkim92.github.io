@@ -6,7 +6,7 @@ subtitle: <a href='#'>Apple Inc</a>. Cupertino. enthusiakk@gmail.com
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot_kim.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
