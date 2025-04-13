@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Apple Inc</a>. Cupertino. enthusiakk@gmail.com
+subtitle: <a href='#'>Apple Inc</a>. Cupertino. <a href="mailto:enthusiakk@gmail.com">enthusiakk@gmail.com</a>
 
 profile:
   align: right
   image: headshot_kim.png
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
+            <p> </p> 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 
@@ -30,10 +31,10 @@ images:
 
 ---
 
-I'm a sensing design enginner at Apple, under Advanced Technology Group. <br>
+I'm a sensing design enginner at `Apple`, under Advanced Technology Group. <br>
 I was previously a postdoctoral fellow at Stanford under [Bao Research Group](https://baogroup.stanford.edu), and joint fellow at [Stanford Human Performance Alliance](https://humanperformance.stanford.edu). 
 
-I specialize in the co-development of integrated `hardware` and `artificial intelligence` for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications.
+I specialize in the co-development of integrated `hardware` and `artificial intelligence` for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications. My research focuses on: 
 
 
 <ul style="line-height: 1.8; padding-left: 2em;">
@@ -51,9 +52,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
-<div style="margin-top: 60px;"></div>
+<div style="margin-top: 50px;"></div>
 
-<swiper-container style="height: 430px;" autoplay-delay="3500" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
+<swiper-container style="height: 430px;margin-bottom: 40px;" autoplay-delay="3500" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/5.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/4.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>

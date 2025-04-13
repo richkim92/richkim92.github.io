@@ -2,87 +2,84 @@
   type: time_table
   contents:
     - title: Apple,Inc
-      institution: Sensing Design Engieer,Cupertino,CA
+      institution: Sensing Design Engieer, Cupertino
       year: 2023-present
       description:
+        - Hardware and algorithm development for touch sensing solutions for future iPhone products
         - Algorithm development to enhance sensing performance and accuracy
-        - title: Member of the Data Science in Multi Messenger Astronomy Program
-          contents:
-            - Awards a minor in Data Science in Astrophysics
-
-    - title: Postdoctoral Research Fellow
-      institution: Stanford University, CA
+        
+    - title: Stanford University
+      institution: Postdoctoral Research Fellow
       year: 2021-2023
       description:
-        - Member of the Rutgers Honors College
-        - Graduated Cum Laude
-        - Received High Honors on Senior Thesis
+        - AI-augmented wearables for human-machine interface. Keyboard-less typing and gesture prediction through few-shot learning <a href='https://www.nature.com/articles/s41928-022-00888-7' target='_blank'>(link)</a>
+        - Generative-AI based wearable device for gesture/health/language prediction
+        - <a href='https://www.innovatorsunder35.com/the-list/kyunkyu-richard-kim/' target='_blank'>MIT Innovators Under 35, 2022</a>, Artificial Intelligence & Robotics
+
+    - title: Seoul National University
+      institution: PhD Researcher
+      year: 2014-2021
+      description:
+        - AI-based patch that decode human gestures <a href='https://www.nature.com/articles/s41467-020-16040-y' target='_blank'>(link)</a>
+        - Ultra-thin wearables for human physiology/gesture <a href='https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202106329' target='_blank'>(link)</a>
+        - Transparent wearable 3D touch sensor <a href='https://www.nature.com/articles/s41467-019-10736-6' target='_blank'>(link)</a>
 
 
-- title: Experience
+- title: Education
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Seoul National University 
+      institution: Ph.D. in Mechanical Engineering 
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: AI-enhanced wearables for human-machine interfaces
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+            - Outstanding Doctoral Dissertation Award
+    - title: Korea University 
+      institution: B.S. in Mechanical Engineering
+      year: 2014
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: AI
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Generative AI focused on VAE
+        - Time-series signal prediction model based on Transformer and few-shot training model
+    - title: HW
       items:
-        - Description 1.
-        - Description 2.
+        - Embedded circuitry design for multi-modal signal measurement device
+        - Sensor design for human motion & physiology (Wearable EMG/ECG, touch, strain)
 
-- title: Other Interests
-  type: list
+
+- title: Honors and Awards
+  type: nested_list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: 
+      items:
+        - <a href='https://www.innovatorsunder35.com/the-list/kyunkyu-richard-kim/' target='_blank'>MIT Innovators Under 35, 2022</a>, Artificial Intelligence & Robotics
+        - Post-Doctoral Overseas Training Fellowship granted by National Foundation of Korea (Strategic Field:Intelligent Semiconductor/Advanced Materials)
+        - 2020 Outstanding Doctoral Dissertation Award, Seoul National University
+        - 2020 Seoul National University Youlchon AI Honorable Mention (top 10 entry)
+        - Naver AI gitHackerthon Competition 2019, Entered the top 40 entry
+        - Global PhD Fellowship 2017 granted by the National Research Foundation of Korea
+        - Scholarship for academic excellence, Mechanical Engineering, Korea University, 2010-2012
+        - 55th National Science Exhibition (participated by 1,720 teams Awarded the 1st Prize by the President of South Korea, Lee M.B, 2009)
+        - V-th Asian Pacific Astronomy Olympiad, 2nd Prize medal, 2009
+
+
+
+- title: Invited Talks 
+  type: nested_list
+  contents:
+    - title: 
+      items:
+        - Innovations in AI-Enhanced Soft Sensors for Gesture Recognition, System X Alliance, Stanford University, June 2023 <a href='https://systemx.stanford.edu/events/seminar/20230601/innovations-ai-enhanced-soft-sensors-gesture-recognition' target='_blank'>(link)</a>
+        - Soft Electronics for Biosignal & Human Machine interface, Korea University Medical Center (KUMC), Department of Physiology, May 2023
+        - AI-enhanced electronic skin that rapidly reads hand tasks with limited data, Stanford University, Wearable Electronics Initiative (eWear), Jan 2023 <a href='https://wearable.su.domains/innovations-for-touch-in-vr/' target='_blank'>(link)</a>
+        - Electronic skin with AI for Augmented Human-Machine Interface, POSTECH, Mechanical Engineering, December 2022
+        - Electronic skin with AI for Augmented Human-Machine Interface, KAIST, Bio and Brain Engineering, December 2022
+        - Electronic skin with AI for Augmented Human-Machine Interface, Yonsei University, Mechanical Engineering, December 2022
+        - Electronic skin with AI for Augmented Human-Machine Interface, Seoul National University, Mechanical Engineering, December 2022
+        - Augmented skin electronics for human-machine interaction based on laser nano structuring and machine intelligence, Korea Institute of Industrial Technology (KITECH), February 2021
