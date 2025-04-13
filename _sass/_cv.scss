@@ -53,9 +53,7 @@ i.iconlocation {
 }
 
 i.iconinstitution {
-  color: var(--global-theme-color);
-  font-size: 0.95rem;
-  margin-right: 0.3rem;
+  display: none !important;
 }
 
 i.icondepartment {
@@ -65,8 +63,20 @@ i.icondepartment {
 }
 
 table.institution {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
+
+table.institution td {
+  font-size: 0.9rem;      /* 글씨 크기 작게 */
+  padding: 2px 4px;       /* 안쪽 여백 줄이기 */
+  margin: 0;              /* 셀 마진 제거 */
+  text-indent: 0;         /* 들여쓰기 제거 */
+  line-height: 1;       /* 줄 간격 적당히 */
+  vertical-align: top;    /* 위 정렬로 */
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
 
 td.department {
   font-size: 0.8rem;

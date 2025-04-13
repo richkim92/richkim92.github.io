@@ -1,32 +1,23 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
+- title: Work Experience 
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Apple,Inc
+      institution: Sensing Design Engieer,Cupertino,CA
+      year: 2023-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Algorithm development to enhance sensing performance and accuracy
+        - title: Member of the Data Science in Multi Messenger Astronomy Program
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Awards a minor in Data Science in Astrophysics
+
+    - title: Postdoctoral Research Fellow
+      institution: Stanford University, CA
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
+        - Member of the Rutgers Honors College
+        - Graduated Cum Laude
+        - Received High Honors on Senior Thesis
+
 
 - title: Experience
   type: time_table
