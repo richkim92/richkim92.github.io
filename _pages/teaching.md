@@ -31,7 +31,7 @@ The goal is to develop, energy-efficient wearable devices that enhance human-com
   <div class="col-md-5 text-center">
     {% include figure.liquid 
       loading="eager" 
-      path="assets/img/Nat_elec.gif" 
+      path="assets/img/publication_preview/Nat_elec_comp.gif" 
       title="Skin sensor project" 
       class="img-fluid rounded shadow"
     %}
@@ -45,7 +45,7 @@ The goal is to develop, energy-efficient wearable devices that enhance human-com
   <div class="col-md-5 text-center">
     {% include figure.liquid 
       loading="eager" 
-      path="assets/img/deep-learned.gif" 
+      path="assets/img/publication_preview/deep-learned_comp.gif" 
       title="Skin sensor project" 
       class="img-fluid rounded shadow"
     %}
