@@ -54,7 +54,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 <div style="margin-top: 50px;"></div>
 
-<swiper-container style="height: auto;margin-bottom: 40px;" autoplay-delay="3500" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
+<swiper-container style="height: 430px;margin-bottom: 40px;" autoplay-delay="3500" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/5.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/4.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
