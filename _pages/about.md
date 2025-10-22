@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Apple Inc</a>. Cupertino. <a href="mailto:enthusiakk@gmail.com">enthusiakk@gmail.com</a>
+#subtitle: <a href='#'>Apple Inc</a>. Cupertino. <a href="mailto:enthusiakk@gmail.com">enthusiakk@gmail.com</a>
 
 profile:
-  align: right
+  align: center
   image: headshot_kim.png
-  image_circular: false # crops the image to make it circular
-  more_info:
-            <p> </p> 
+  image_circular: true # crops the image to make it circular
+  address: >
+    <p>enthusiakk@gmail.com</p>
+  #more_info:
+            #<p> </p> 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,7 +36,7 @@ images:
 I'm a sensing design enginner at `Apple`, under Advanced Technology Group. <br>
 I was previously a postdoctoral fellow at Stanford under [Bao Research Group](https://baogroup.stanford.edu), and joint fellow at [Stanford Human Performance Alliance](https://humanperformance.stanford.edu). 
 
-I specialize in the co-development of integrated `hardware` and `artificial intelligence` for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications. My research focuses on: 
+I specialize in the co-development of integrated `AI` and `hardware`for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications. My research focuses on: 
 
 
 <ul style="line-height: 1.8; padding-left: 2em;">
