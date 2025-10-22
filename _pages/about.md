@@ -41,8 +41,8 @@ I specialize in the co-development of integrated `AI` and `hardware`for `wearabl
 
 <ul style="line-height: 1.8; padding-left: 2em;">
   <li>AI algorithms for time-series signal processing, enabling motion prediction and language translation from physiological signals</li>
-  <li>Generative AI models that extrapolate sensory data to enhance and enrich wearable experiences in augmented environments</li>
-  <li>Wearable system design for capturing high-precision motion, health, and language signals, including EMG, ECG, and strain sensors</li>
+  <li>User and Task-agnostic AI models to enhance and enrich wearable experiences in augmented environments</li>
+  <li>Wearable electronics development for capturing motion, health, and language signals, including EMG, IMU, ECG, and strain sensors</li>
 </ul>
 
 

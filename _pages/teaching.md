@@ -12,7 +12,7 @@ The goal is to develop, energy-efficient wearable devices that enhance human-com
 
 
 ---
-<h3 class="mb-4">Generalizable Wearable Human-Computer Interface</h3>
+<h3 class="mb-4">Task/User-Agnostic Wearable Human-Computer Interface</h3>
 
 <div class="row align-items-center">
   <!-- 왼쪽: 텍스트 영역 -->

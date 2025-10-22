@@ -7,13 +7,15 @@
       description:
         - Hardware and algorithm development for touch sensing solutions for future iPhone products
         - Algorithm development to enhance sensing performance and accuracy
+        - AI-based touch sensing module design optimization
+        - ML-based models uncovering hidden correlations across multimodal data enabling predictive mapping between chip-level design and sensing signals
         
     - title: Stanford University
       institution: Postdoctoral Research Fellow
       year: 2021-2023
       description:
         - AI-augmented wearables for human-machine interface. Keyboard-less typing and gesture prediction through few-shot learning <a href='https://www.nature.com/articles/s41928-022-00888-7' target='_blank'>(link)</a>
-        - Generative-AI based wearable device for gesture/health/language prediction
+        - Low-channel EMG wrist band for gesture/health/language prediction.
         - <a href='https://www.innovatorsunder35.com/the-list/kyunkyu-richard-kim/' target='_blank'>MIT Innovators Under 35, 2022</a>, Artificial Intelligence & Robotics
 
     - title: Seoul National University
@@ -45,8 +47,9 @@
   contents:
     - title: AI
       items:
-        - Generative AI focused on VAE
-        - Time-series signal prediction model based on Transformer and few-shot training model
+        - Machine Learning, Deep Learning, Time series, Data Science, Computer Vision, Natural Language Processing, Few-shot learning
+        - Programming/Technical skills; Python (PyTorch, Tensorflow), C++, Matlab, Labview, Docker, AWS
+
     - title: HW
       items:
         - Embedded circuitry design for multi-modal signal measurement device
