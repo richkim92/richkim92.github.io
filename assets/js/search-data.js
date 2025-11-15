@@ -461,7 +461,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/richard-kim-03585574", "_blank");
+          window.open("https://www.linkedin.com/in/kyun-kyu-richard-kim-03585574", "_blank");
         },
       },{
         id: 'social-scholar',
