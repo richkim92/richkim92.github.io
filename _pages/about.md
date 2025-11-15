@@ -57,11 +57,11 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <div style="margin-top: 50px;"></div>
 
 <swiper-container style="width: 100%; height: auto; margin-bottom: 20px;" autoplay-delay="4000" keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true" loop="true" autoplay-disable-on-interaction="false">
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/5.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/4.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
-  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/main_6.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/main_5.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/main_4.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/main_3.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/main_research/main_2.png" class="img-fluid rounded z-depth-1" %}</swiper-slide>
   <swiper-autoplay-progress slot="container-end"></swiper-autoplay-progress>
 </swiper-container>
 
