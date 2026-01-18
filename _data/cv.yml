@@ -47,13 +47,13 @@
   contents:
     - title: AI
       items:
-        - Machine Learning, Deep Learning, Time series, Data Science, Computer Vision, Natural Language Processing, Few-shot learning
+        - Machine Learning, Deep Learning, Time series, Data Science, Computer Vision, Natural Language Processing, Few-shot Learning, Representation Learning
         - Programming/Technical skills; Python (PyTorch, Tensorflow), C++, Matlab, Labview, Docker, AWS
 
     - title: HW
       items:
         - Embedded circuitry design for multi-modal signal measurement device
-        - Sensor design for human motion & physiology (Wearable EMG/ECG, touch, strain)
+        - Sensor design for human motion & physiology (Wearable EMG/ECG, capacitive, pressure, strain)
 
 
 - title: Honors and Awards

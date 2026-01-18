@@ -28,7 +28,7 @@ The goal is to develop, energy-efficient wearable devices that enhance human-com
   <div class="col-md-7">
     <p>
       This research propose a self-supervised learning framework for wearable sensing that enables low-channel EMG devices to capture rich body kinematics traditionally requiring high-density sensor arrays. </p>
-    <p>  Using a compact, wearable system, our approach achieves performance comparable to high-density EMG for human–computer interaction tasks such as sign language translation and gait force prediction. <a href="https://www.nature.com/articles/s44460-025-00002-2" target="_blank">Nature Electronics, 2026 </a> <a href="https://kyunkyukim.com/assets/pdf/emg_nat.pdf" target="_blank" style="color:#0071e3;">[PDF] </a>
+    <p>  Using a compact, wearable system, our approach achieves performance comparable to high-density EMG for human–computer interaction tasks such as sign language translation and gait force prediction. <a href="https://www.nature.com/articles/s44460-025-00002-2" target="_blank">Nature Sensors, 2026 </a> <a href="https://kyunkyukim.com/assets/pdf/emg_nat.pdf" target="_blank" style="color:#0071e3;">[PDF] </a>
     </p>
   </div>
 </div>
