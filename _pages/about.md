@@ -33,7 +33,7 @@ images:
 
 ---
 
-I'm a sensing design enginner at `Apple`, under Advanced Technology Group. <br>
+I'm a `Machine Learning Engineer` at Apple, under Motion & Interaction team. <br>
 I was previously a postdoctoral fellow at Stanford under [Bao Research Group](https://baogroup.stanford.edu), and joint fellow at [Stanford Human Performance Alliance](https://humanperformance.stanford.edu). 
 
 I specialize in the co-development of integrated `AI` and `hardware`for `wearable human-machine interfaces`, with a focus on VR/AR and healthcare applications. My research focuses on: 

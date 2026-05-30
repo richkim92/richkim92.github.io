@@ -2,13 +2,18 @@
   type: time_table
   contents:
     - title: Apple,Inc
-      institution: Sensing Design Engieer, Cupertino
-      year: 2023-present
+      institution: Machine Learning Engieer, Cupertino
+      year: 2026-present
       description:
-        - Hardware and algorithm development for touch sensing solutions for future iPhone products
-        - Algorithm development to enhance sensing performance and accuracy
+        - AI-powered motion-sensing features across Apple products
+        - Efficient, low-power models optimized for on-device performance
+
+    - title: Apple,Inc
+      institution: Sensing Design Engieer, Cupertino
+      year: 2023-2026
+      description:
+        - Hardware and algorithm solutions for touch-sensing technologies across iPhone products
         - AI-based touch sensing module design optimization
-        - ML-based models uncovering hidden correlations across multimodal data enabling predictive mapping between chip-level design and sensing signals
         
     - title: Stanford University
       institution: Postdoctoral Research Fellow
